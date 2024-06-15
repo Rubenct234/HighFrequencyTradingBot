@@ -13,3 +13,7 @@ Run **Main.java** to start trading. A First-trade account is required. <br>
 ## Reference
 - [High-Frequency Trading](https://www.investopedia.com/ask/answers/09/high-frequency-trading.asp)
 - [Market Making Strategy](https://www.quantinsti.com/blog/automated-market-making-overview)
+
+-[operativa] (https://docs.google.com/spreadsheets/d/1E20DGwVm5oPgvger7z9jfXXKY0Zp7YaN/edit?usp=drivesdk&ouid=102740382936697300334&rtpof=true&sd=true)
+
+-[opertiva redonda] (https://docs.google.com/spreadsheets/d/1RYUeX9MZwS0dI0qrcpmG7ivWvcirRQeT8qeoLfo9WOg/edit?usp=drivesdk)
